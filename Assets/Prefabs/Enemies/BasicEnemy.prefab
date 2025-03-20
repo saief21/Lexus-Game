@@ -1,0 +1,23 @@
+{
+    "m_GameObject": {
+        "m_Component": [
+            {
+                "component": {
+                    "m_Script": {
+                        "fileID": 11500000,
+                        "guid": "EnemyController",
+                        "type": 3
+                    },
+                    "maxHealth": 50,
+                    "damage": 10,
+                    "attackRange": 2,
+                    "attackRate": 1,
+                    "scoreValue": 100,
+                    "moneyValue": 25,
+                    "moveSpeed": 3,
+                    "detectionRange": 10
+                }
+            }
+        ]
+    }
+}

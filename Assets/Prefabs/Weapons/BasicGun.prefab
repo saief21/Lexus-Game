@@ -1,0 +1,20 @@
+{
+    "m_GameObject": {
+        "m_Component": [
+            {
+                "component": {
+                    "m_Script": {
+                        "fileID": 11500000,
+                        "guid": "WeaponController",
+                        "type": 3
+                    },
+                    "weaponName": "Basic Gun",
+                    "damage": 15,
+                    "fireRate": 0.3,
+                    "range": 50,
+                    "cost": 0
+                }
+            }
+        ]
+    }
+}

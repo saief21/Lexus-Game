@@ -1,0 +1,20 @@
+{
+    "m_GameObject": {
+        "m_Component": [
+            {
+                "component": {
+                    "m_Script": {
+                        "fileID": 11500000,
+                        "guid": "WeaponController",
+                        "type": 3
+                    },
+                    "weaponName": "Shotgun",
+                    "damage": 25,
+                    "fireRate": 1.0,
+                    "range": 30,
+                    "cost": 500
+                }
+            }
+        ]
+    }
+}
