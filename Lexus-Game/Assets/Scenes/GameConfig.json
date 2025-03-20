@@ -1,0 +1,27 @@
+{
+    "sceneSetup": {
+        "player": {
+            "position": {"x": 0, "y": 1, "z": 0},
+            "rotation": {"x": 0, "y": 0, "z": 0},
+            "prefab": "PlayerPrefab"
+        },
+        "enemies": {
+            "spawnPoints": [
+                {"x": 10, "y": 1, "z": 10},
+                {"x": -10, "y": 1, "z": 10},
+                {"x": 10, "y": 1, "z": -10},
+                {"x": -10, "y": 1, "z": -10}
+            ],
+            "prefab": "BasicEnemyPrefab"
+        },
+        "managers": {
+            "gameManager": {
+                "startingCurrency": 500,
+                "startingScore": 0
+            },
+            "weaponManager": {
+                "startingWeapons": ["Pistol", "AssaultRifle", "SniperRifle"]
+            }
+        }
+    }
+}
